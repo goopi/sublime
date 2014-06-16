@@ -1,0 +1,10 @@
+*.cache
+Backup
+Cache
+Index
+Local
+Packages/*
+!Packages/User
+Packages/User/.SublimeREPLHistory
+Packages/User/Package Control.last-run
+Packages/User/Package Control.system-ca-bundle
