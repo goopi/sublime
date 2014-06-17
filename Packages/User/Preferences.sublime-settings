@@ -11,6 +11,7 @@
   [
     ".git",
     "log",
+    "node_modules",
     "tmp"
   ],
   "font_face": "Menlo",
